@@ -17,7 +17,7 @@ This project demonstrates an improved Particle Swarm Optimization algorithm for 
 
 ### Required Libraries
 
-Install required libraries via `pip`: pip install numpy matplotlib
+Install required libraries via `pip`:  pip3 install numpy matplotlib
 
 
 ## How to use
