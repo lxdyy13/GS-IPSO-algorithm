@@ -3,7 +3,7 @@
 This project demonstrates an improved Particle Swarm Optimization algorithm for 3D path planning. It includes:
 
 - Reading and parsing city/coordinate data.
-- Implementing an improved PSO algorithm (GSIPSO).
+- Implementing an improved PSO algorithm (GS-IPSO).
 - Executing the path search and outputting optimal results.
 - Visualizing the path and convergence curves.
 
